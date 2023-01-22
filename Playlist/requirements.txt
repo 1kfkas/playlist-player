@@ -1,0 +1,5 @@
+Pillow==9.4.0
+pydub==0.25.1
+pygame==2.1.2
+pytube==12.1.2
+requests==2.27.1
