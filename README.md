@@ -1,1 +1,1 @@
-# playlist-player
+# Playlist Player
